@@ -21,7 +21,7 @@ Generates a 15 character password:
     pwgen.py
     F58D53hz3c@J@8%
 
-Generates 3 times a 20 character password:
+Generates a 20 character password, 3 times:
 
     pwgen.py -q 3 -l 20
     3XClLh#kx@cXqzx5pq9V
